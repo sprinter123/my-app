@@ -1,0 +1,38 @@
+{
+  "employee": [
+    {
+      "id": "190",
+      "name": "Iaroslav",
+      "income": "3000",
+      "favorite": true,
+      "title": "foo"
+    },
+    {
+      "id": "376",
+      "name": "IronMan",
+      "income": "3000",
+      "favorite": true,
+      "title": "foo"
+    },
+    {
+      "id": "369",
+      "name": "HULK",
+      "income": "5000",
+      "favorite": true,
+      "title": "foo"
+    },
+    {
+      "id": "633",
+      "name": "Mr. Anderson",
+      "income": "6000",
+      "favorite": false,
+      "title": "foo"
+    },
+    {
+      "id": "303",
+      "name": "SpiderMan",
+      "income": "200",
+      "favorite": true
+    }
+  ]
+}
